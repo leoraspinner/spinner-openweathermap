@@ -38,8 +38,6 @@ class Main {
                         )
                 );
 
-        // Wait for async call to finish (for demo purposes)
-        //try { Thread.sleep(3000); } catch (InterruptedException e) {}
     }
 
 }
