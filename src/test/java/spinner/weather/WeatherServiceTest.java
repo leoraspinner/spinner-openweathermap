@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class WeatherServiceTest
 {
     @Test
-    public void weatherNow(){
+    public void weatherNow() {
         //given
         WeatherService service = new WeatherServiceFactory().getService();
         ApiKey apiKey = new ApiKey();

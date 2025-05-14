@@ -10,7 +10,7 @@ public class WeatherFrame extends JFrame {
     private JLabel label;
 
     public WeatherFrame() {
-        setTitle("Weather" );
+        setTitle("Weather");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(400, 200);
         setLocationRelativeTo(null);
